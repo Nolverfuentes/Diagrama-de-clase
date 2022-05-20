@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WebApplication1.Agenda">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAgAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Agenda.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApplication1.Historial_Paciente">
+    <Position X="6.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAABABAACABQAQEAAAAAAAQAAAAAAABSAA=</HashCode>
+      <FileName>Historial_Paciente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApplication1.Medicamento">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAhAAAEgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Medicamento.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApplication1.Paciente">
+    <Position X="4.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAgAwAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Paciente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApplication1.Reporte">
+    <Position X="2.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABIAAQAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Reporte.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApplication1.Sintoma">
+    <Position X="2.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sintoma.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
