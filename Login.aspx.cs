@@ -28,7 +28,7 @@ namespace Diagrama_de_clase
                     string cookiestr;
                     HttpCookie ck;
                     tkt = new FormsAuthenticationTicket(1, Login1.UserName, DateTime.Now,
-                    DateTime.Now.AddMinutes(30), Login1.RememberMeSet, "2");
+                    DateTime.Now.AddMinutes(30), Login1.RememberMeSet, "1");
                     cookiestr = FormsAuthentication.Encrypt(tkt);
                     ck = new HttpCookie(FormsAuthentication.FormsCookieName, cookiestr);
                     if (Login1.RememberMeSet)

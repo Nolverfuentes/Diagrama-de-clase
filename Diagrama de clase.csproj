@@ -208,6 +208,7 @@
     </Compile>
     <Compile Include="Medicamento.cs" />
     <Compile Include="Paciente.cs" />
+    <Compile Include="Producto.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Reporte.cs" />
     <Compile Include="Sintoma.cs" />
