@@ -127,6 +127,8 @@
     <Content Include="ClassDiagram1.cd" />
     <Content Include="DiagramAgenda.cd" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
+    <Content Include="Login.aspx" />
+    <Content Include="LogOut.aspx" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
@@ -190,6 +192,20 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Historial_Paciente.cs" />
+    <Compile Include="Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LogOut.aspx.cs">
+      <DependentUpon>LogOut.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LogOut.aspx.designer.cs">
+      <DependentUpon>LogOut.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Medicamento.cs" />
     <Compile Include="Paciente.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
